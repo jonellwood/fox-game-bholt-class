@@ -1,7 +1,6 @@
 {
    "name": "foxy-game",
    "version": "1.0.0",
-   "main": "src/index.html",
    "description": "",
    "scripts": {
       "format": "prettier --ignore-path ./.gitignore --write \"./**/*.{html,json,js,ts,css}\"",
