@@ -6,7 +6,7 @@
       "format": "prettier --ignore-path ./.gitignore --write \"./**/*.{html,json,js,ts,css}\"",
       "format:check": "prettier --ignore-path ./.gitignore --check \"./**/*.{html,json,js,ts,css}\"",
       "dev": "parcel src/index.html",
-      "build": "parcel build index.html",
+      "build": "parcel build",
       "test": "echo \"Error: no test specified\" && exit 1"
    },
    "author": "Jon Ellwood",
